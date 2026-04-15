@@ -1,36 +1,114 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 💄 Lip Blushing Landing Page (Delhi)
 
-## Getting Started
+A mobile-first, high-converting landing page for **Lip Blushing services in Delhi**, inspired by premium Korean aesthetic clinics.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 Live Demo
+
+👉 https://anilelorapmutask.vercel.app
+
+---
+
+## 📌 Features
+
+* ✨ Premium Korean-style UI (soft, clean, minimal)
+* 📱 Fully responsive (mobile-first design)
+* ⚡ Fast loading (optimized with Next.js)
+* 🔍 SEO optimized (meta tags, headings)
+* 📲 WhatsApp integration for instant leads
+* 📞 Call & Book Now CTA buttons
+* 📌 Sticky bottom CTA (conversion focused)
+
+---
+
+## 🧩 Sections Included
+
+* Hero Section (Premium aesthetic)
+* Before & After (visual proof)
+* Benefits of Lip Blushing
+* Procedure Steps
+* Pricing ("Starting from ₹4,999")
+* Testimonials
+* Lead Form (Name + Phone)
+* Sticky CTA (Book / Call / WhatsApp)
+
+---
+
+## 🛠️ Tech Stack
+
+* Next.js (App Router)
+* Tailwind CSS
+* JavaScript (React)
+* Vercel (Deployment)
+
+---
+
+## 📂 Project Structure
+
+```
+lip-blushing-landing/
+│
+├── app/
+│   ├── layout.js
+│   ├── page.js
+│
+├── components/
+│   ├── Hero.jsx
+│   ├── BeforeAfter.jsx
+│   ├── Benefits.jsx
+│   ├── Procedure.jsx
+│   ├── Pricing.jsx
+│   ├── Testimonials.jsx
+│   ├── CTA.jsx
+│   ├── StickyCTA.jsx
+│   ├── LeadForm.jsx
+│
+├── public/
+│   ├── before1.jpg
+│   ├── after1.jpg
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## ⚙️ Installation & Setup
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+# Clone repository
+git clone https://github.com/aniljiA1/anilelorapmutask.git
+# Navigate into project
+cd lip-blushing-landing
 
-## Learn More
+# Install dependencies
+npm install
 
-To learn more about Next.js, take a look at the following resources:
+# Run development server
+npm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🔍 SEO Optimization
 
-## Deploy on Vercel
+* Proper use of H1, H2 tags
+* Meta title & description
+* Keyword focus: **Lip Blushing in Delhi**
+* Fast page load for better ranking
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📲 Conversion Features
+
+* WhatsApp pre-filled message integration
+* Sticky CTA for mobile users
+* Simple lead capture form
+* Clear call-to-action buttons
+
+---
+
+## Author
+ Anil Kumar
+
+---
+ 
+
